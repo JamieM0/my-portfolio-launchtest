@@ -16,9 +16,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/motion-background.jpg";
+import image from "../images/comp3.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "Abstract image of a computer screen.";
 
 /**
  * Sort description that expands on your title on the Home component.
@@ -43,7 +43,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I'm improving my skills by practising them when I build my personal projects.";
+  "I'm improving my skills by developing personal projects!";
 
 const About = () => {
   return (
