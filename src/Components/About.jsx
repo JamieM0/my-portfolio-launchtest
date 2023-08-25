@@ -31,8 +31,8 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Windows Forms",
-  "C# Object Oriented Programming",
+  "C# & .NET",
+  "Object Oriented Programming",
   "Intuitive User Interfaces",
   "Useful Tools",
 ];
